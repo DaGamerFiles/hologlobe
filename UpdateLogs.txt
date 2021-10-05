@@ -1,0 +1,11 @@
+Alpha v0.2.0
++ All country links are completed
++ Country values, tributes, supply points, rare resources, pre-determined nations
++ New loading background (1200x786, autostretch on widescreen)
+% Fixed missing city indicator for Yozora Mel
+
+Alpha v0.1.1
++ Added custom countries name (100%) and links (70%)
+
+Alpha v0.1.0
++ Map render and scripts generation

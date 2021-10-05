@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<ROOT>
+	<CAT hash="2131502">
+		<STRING hash="56176208" hash_i="57512968" needed="1">conquest\CtW_hologlobe_Map_01</STRING>
+		<STRING hash="36631689" hash_i="36699395" needed="1">A fan tribute for Cover Corporation. Fight to win the continent of almost every talents from hololive to holostars as you unite them into your hand.</STRING>
+		<STRING hash="16214971" hash_i="16252613" needed="1">Project Hologlobe</STRING><STRING hash="124726537" hash_i="124794243" needed="1">As one of the holocouncil, it's your time to</STRING><STRING hash="649430172" hash_i="654889182" needed="1">A fan tribute for Cover Corporation. Fight to win the continent of almost every talents from hololive to holostars as you unite them into your hand.</STRING></CAT>
+	<CAT hash="7347124">
+		<STRING hash="15695860" hash_i="15711026" needed="1">Hoshimachi Suisei</STRING>
+		<STRING hash="10574220" hash_i="10624236" needed="1">Houshou Marine</STRING>
+		<STRING hash="10483825" hash_i="10513007" needed="1">Murasaki Shion</STRING>
+		<STRING hash="4952708" hash_i="4953392" needed="1">Ookami Mio</STRING>
+		<STRING hash="8502946" hash_i="8483878" needed="1">Usada Pekora</STRING>
+		<STRING hash="10653402" hash_i="10741908" needed="1">Shiranui Flare</STRING>
+		<STRING hash="9745058" hash_i="9837432" needed="1">Anya Melfissa</STRING>
+		<STRING hash="13057173" hash_i="13060297" needed="1">Moona Hoshinova</STRING>
+		<STRING hash="8437371" hash_i="8414117" needed="1">Uruha Rushia</STRING>
+		<STRING hash="6660799" hash_i="6714953" needed="1">Ayunda Risu</STRING>
+		<STRING hash="10935297" hash_i="10899053" needed="1">Oozora Subaru</STRING>
+		<STRING hash="8157391" hash_i="8185651" needed="1">Kureiji Ollie</STRING>
+		<STRING hash="7976931" hash_i="8713399" needed="1">Yuzuki Choco</STRING>
+		<STRING hash="6301828" hash_i="6280386" needed="1">Roboco-san</STRING>
+		<STRING hash="8541042" hash_i="8605704" needed="1">Momosuzu Nene</STRING>
+		<STRING hash="6970718" hash_i="7653144" needed="1">Minato Aqua</STRING>
+		<STRING hash="10240097" hash_i="10283927" needed="1">Inugami Korone</STRING>
+		<STRING hash="9880159" hash_i="9941355" needed="1">Shirogane Noel</STRING>
+		<STRING hash="10137612" hash_i="10203568" needed="1">Yukihana Lamy</STRING>
+		<STRING hash="6955049" hash_i="6937905" needed="1">Omaru Polka</STRING>
+		<STRING hash="12884337" hash_i="12974203" needed="1">Airani Iofifteen</STRING>
+		<STRING hash="7769517" hash_i="8450875" needed="1">Nakiri Ayame</STRING>
+		<STRING hash="12273960" hash_i="12326052" needed="1">Ninomae Ina'nis</STRING>
+		<STRING hash="8812014" hash_i="8821360" needed="1">Pavolia Reine</STRING>
+		<STRING hash="13636952" hash_i="13700038" needed="1">Takanashi Kiara</STRING>
+		<STRING hash="11991748" hash_i="12041562" needed="1">Nekomata Okayu</STRING>
+		<STRING hash="8845365" hash_i="9408415" needed="1">Mori Calliope</STRING>
+		<STRING hash="775655" hash_i="698265" needed="1">IRyS</STRING>
+		<STRING hash="14580901" hash_i="14673403" needed="1">Shirakami Fubuki</STRING>
+		<STRING hash="10595862" hash_i="11567388" needed="1">Shishiro Botan</STRING>
+		<STRING hash="9140344" hash_i="9815622" needed="1">Watson Amelia</STRING>
+		<STRING hash="4602889" hash_i="4619801" needed="1">Gawr Gura</STRING>
+		<STRING hash="13891129" hash_i="13965379" needed="1">Hanasaki Miyabi</STRING>
+		<STRING hash="649095" hash_i="670861" needed="1">AZKi</STRING>
+		<STRING hash="15180082" hash_i="15173714" needed="1">Tsunomaki Watame</STRING>
+		<STRING hash="9298924" hash_i="9388766" needed="1">Amane Kanata</STRING>
+		<STRING hash="6911725" hash_i="7025731" needed="1">Aragami Oga</STRING>
+		<STRING hash="6610003" hash_i="6677709" needed="1">Arurandeisu</STRING>
+		<STRING hash="6875197" hash_i="6836099" needed="1">Tokino Sora</STRING>
+		<STRING hash="1240275" hash_i="1218833" needed="1">Rikka</STRING>
+		<STRING hash="5067686" hash_i="5162008" needed="1">Astel Leda</STRING>
+		<STRING hash="9206216" hash_i="9208790" needed="1">Kishido Temma</STRING>
+		<STRING hash="5506589" hash_i="6164709" needed="1">Kiryu Coco</STRING>
+		<STRING hash="9634474" hash_i="9596270" needed="1">Yukoku Roberu</STRING>
+		<STRING hash="5122781" hash_i="5118465" needed="1">Yozora Mel</STRING>
+		<STRING hash="8142429" hash_i="8146549" needed="1">Kanade Izuru</STRING>
+		<STRING hash="9301953" hash_i="9374263" needed="1">Himemori Luna</STRING>
+		<STRING hash="10026589" hash_i="10043631" needed="1">Tokoyami Towa</STRING>
+		<STRING hash="9513320" hash_i="9541464" needed="1">Aki Rosenthal</STRING>
+		<STRING hash="14581524" hash_i="14655798" needed="1">Natsuiro Matsuri</STRING>
+		<STRING hash="10622612" hash_i="10650960" needed="1">Kageyama Shien</STRING>
+		<STRING hash="6055232" hash_i="6141054" needed="1">Akai Haato</STRING>
+		<STRING hash="6488659" hash_i="6487173" needed="1">Sakura Miko</STRING>
+		<STRING hash="4321888" hash_i="4303590" needed="1">Haachama</STRING>
+	</CAT>
+	<CAT hash="18830057">
+		<STRING hash="339796965" hash_i="337129057" needed="1">The enemy is resisting your invasion. Take their capital(s) in $NUM0 minutes or less to win.</STRING>
+		<STRING hash="447593473" hash_i="452416295" needed="1">Your army is approaching the enemy's army.  Attack their encampment and destroy all their buildings in order to win.</STRING>
+		<STRING hash="827198245" hash_i="833954485" needed="1">Expecting no resistance to your invasion, no support troops were included in your expeditionary force.  A fortified city has been encountered, however, and must be eliminated.</STRING>
+		<STRING hash="1870673948" hash_i="1859417078" needed="1">The enemy army has decided that they cannot win this battle and are fleeing with all of their supplies. Destroy their Supply Wagons to gain these supplies for yourself, but be careful; the enemy is not totally helpless. Keep at least one of your units alive until the timer runs out to achieve victory.</STRING>
+		<STRING hash="2018579548" hash_i="2041321268" needed="1">The enemy's army is tied up elsewhere, so they have hired mercenaries. These mercenaries can survive without a City and they suffer no attrition. To find them will require some careful scouting; they are aware of your presence and will certainly set up ambushes. And beware--they will raid your homeland relentlessly.</STRING>
+		<STRING hash="1073239158" hash_i="1076676238" needed="1">Your army has reached the largest enemy settlement in this territory. Capture the capital in 90 minutes and the territory will fall. The enemy leader is crafty, so beware of ambush by the enemy troops.</STRING>
+		<STRING hash="547043201" hash_i="545966831" needed="1">Your enemy has launched a surprise attack on this territory.  Hold off the attackers and defend your capital to achieve victory.</STRING>
+		<STRING hash="603007676" hash_i="603773104" needed="1">The enemy has taken several of your cities. Their morale is not very high, however if enough of their men are eliminated they will likely retreat.</STRING>
+		<STRING hash="657405878" hash_i="652050402" needed="1">You are being invaded by a treacherous neighbor. Take the enemy capital(s) or hold off their assault for $NUM0 minutes to force them to withdraw.</STRING>
+		<STRING hash="755002002" hash_i="743847024" needed="1">The barbarians in this territory are hostile and must be eliminated. Defeat them by capturing their capitals or capturing most of their territory in $NUM0 minutes.</STRING>
+		<STRING hash="886320487" hash_i="884168747" needed="1">Your armies encountered no resistance in taking the territory.  However, the natives have rallied and are assaulting your new outpost.  Defend your capital until the timer expires to win.</STRING>
+		<STRING hash="460127993" hash_i="464950815" needed="1">Your army is approaching a barbarian army.  Attack their encampment and destroy all their buildings in order to win.</STRING>
+		<STRING hash="715598108" hash_i="713802706" needed="1">You have successfully established a new settlement, but several nomadic tribes also claim this territory. Eliminate them in order to protect your people.</STRING>
+		<STRING hash="1178321956" hash_i="1164321508" needed="1">The barbarian nations in this region are weak and sure to kneel to your nation if you are able to prove your superiority by capturing one of their cities in $NUM0 minutes. They must capture your capital to defeat you.</STRING>
+		<STRING hash="1170166231" hash_i="1166423633" needed="1">There are several native tribes in this territory vying for power. Use your diplomatic skills to play them off of each other and ensure your own dominance in the area.  Defeat the barbarian tribes in 120 minutes.</STRING>
+		<STRING hash="524947206" hash_i="522118338" needed="1">Settlers from far away are encroaching onto your lands. Lead your war party in an effort to drive them off. Destroy 25 enemy units.</STRING>
+		<STRING hash="1041644836" hash_i="1049167724" needed="1">A group of barbarian tribes in this region have united together to destroy you.  Fortunately you brought extra supplies and the barbarians are an Age behind you.  Survive until the timer expires to win.</STRING>
+	</CAT>
+	<CAT hash="21745476">
+		<STRING hash="3078682" hash_i="3154074" needed="1">Conquest</STRING>
+		<STRING hash="7519564" hash_i="8162670" needed="1">Field Battle</STRING>
+		<STRING hash="3073683" hash_i="3051177" needed="1">Tactics</STRING>
+		<STRING hash="8191179" hash_i="8147293" needed="1">Supply Train</STRING>
+		<STRING hash="3821564" hash_i="3803266" needed="1">Hideaway</STRING>
+		<STRING hash="1757765" hash_i="1825471" needed="1">Ambush</STRING>
+		<STRING hash="14272504" hash_i="15192350" needed="1">Surprise Attack!</STRING>
+		<STRING hash="17035714" hash_i="17035996" needed="1">Guerrilla Warfare</STRING>
+		<STRING hash="821127" hash_i="803921" needed="1">Melee</STRING>
+		<STRING hash="13723440" hash_i="13844484" needed="1">Barbarian Rally</STRING>
+		<STRING hash="1150372" hash_i="1132098" needed="1">Nomad</STRING>
+		<STRING hash="7466821" hash_i="7487223" needed="1">Sudden Death</STRING>
+		<STRING hash="10112253" hash_i="10212761" needed="1">Wheel and Deal</STRING>
+		<STRING hash="4783675" hash_i="4722749" needed="1">War Party</STRING>
+		<STRING hash="32811580" hash_i="33103126" needed="1">Barbarians at the Gates!</STRING>
+	</CAT>
+	<CAT hash="30698867">
+		<STRING hash="137773498" hash_i="139438982" needed="1">Capture the enemy capital(s) in $NUM0 minutes.</STRING>
+		<STRING hash="59485593" hash_i="59471123" needed="1">Destroy the enemy's encampment.</STRING>
+		<STRING hash="90105976" hash_i="90090548" needed="1">Find and capture the enemy's capital.</STRING>
+		<STRING hash="182837457" hash_i="183079847" needed="1">Eliminate all enemy Generals or control 70% of the territory.</STRING>
+		<STRING hash="179054230" hash_i="179038802" needed="1">Find and capture the enemy's capital in 90 minutes.</STRING>
+		<STRING hash="74894997" hash_i="74880527" needed="1">Defend your capital for 15 minutes.</STRING>
+		<STRING hash="28336424" hash_i="28321954" needed="1">Destroy 25 enemy units.</STRING>
+		<STRING hash="177875231" hash_i="182163563" needed="1">Capture the enemy capital(s) or hold out for $NUM0 minutes.</STRING>
+		<STRING hash="275982086" hash_i="273091602" needed="1">Capture the enemy capital or defeat them by capturing territory in $NUM0 minutes.</STRING>
+		<STRING hash="208496370" hash_i="205072638" needed="1">Capture one city from each nation to defeat them in $NUM0 minutes.</STRING>
+		<STRING hash="120889362" hash_i="120874892" needed="1">Defeat the barbarian tribes in 120 minutes.</STRING>
+		<STRING hash="115951391" hash_i="115933093" needed="1">Hold off the enemy until the timer expires.</STRING>
+	</CAT>
+	<CAT hash="44397162">
+		<STRING hash="34157738" hash_i="34133086" needed="1">You have won the battle.</STRING>
+		<STRING hash="82012261" hash_i="81987609" needed="1">You have rooted out the mercenaries.</STRING>
+		<STRING hash="113504005" hash_i="113479353" needed="1">You have defeated all of the nomad tribes.</STRING>
+	</CAT>
+	<CAT hash="38438024">
+		<STRING hash="37310381" hash_i="37285729" needed="1">You have lost the battle.</STRING>
+		<STRING hash="34211834" hash_i="34187182" needed="1">You have lost the battle</STRING>
+		<STRING hash="85798563" hash_i="85776057" needed="1">The mercenaries have overwhelmed you.</STRING>
+		<STRING hash="174879179" hash_i="174854527" needed="1">You were unable to defeat all of the nomad tribes.</STRING>
+	</CAT>
+</ROOT>
